@@ -2,4 +2,5 @@
 
 Hi humans!
 
-Tim is here, I like Linux programming and JSP.
+Tim is here <br>
+I fell in love with algorithm and data structure
